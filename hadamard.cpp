@@ -72,7 +72,7 @@ vector<vector<bool>> hadamard(int times)
 		/*
 		The following loops sets the values of the rows and columns 
 		of the matrix by copying the previous ( H(n-1) ) values to 
-		the right and bottom left. The right botton is inverse using '!'
+		the right and bottom left. The right bottom is inverse using '!'
 		
 		Will try doing it recursively later...
 		*/
